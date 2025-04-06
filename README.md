@@ -10,6 +10,12 @@ Sou o **James Gabriel**, desenvolvedor em evolução, com foco em:
 
 🚀 Atualmente estudando design de aplicações e aprimorando meus projetos para evoluir como desenvolvedor fullstack.
 
+## 🚧 Projetos em destaque
+
+- 📌 [Bot de automação com Python](https://github.com/jamesgabriel8917/PythonDataScraping.git) – WebScrapping exemplar público.
+- 📌 [API feita com Java + SpringBoot]((https://github.com/jamesgabriel8917/api-springboot.git)) – API REST com Spring Boot e boas práticas.
+- 📌 [Site Game Mosquito Killer]([https://github.com/seu-user/meu-site](https://github.com/jamesgabriel8917/MosquitoKillerGames.git)) – Projeto frontend com HTML/CSS/JS.
+
 ---
 ## 📊 GitHub Stats
 
@@ -37,7 +43,7 @@ Sou o **James Gabriel**, desenvolvedor em evolução, com foco em:
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/jamesgabriel8917)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesbesfontana@outlook.com)
+[![MailTo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesbesfontana@outlook.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jamesgabriel8917&color=blueviolet)
 
