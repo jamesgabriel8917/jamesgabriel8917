@@ -14,7 +14,7 @@ Sou o **James Gabriel**, desenvolvedor em evolução, com foco em:
 
 - 📌 [Bot de automação com Python](https://github.com/jamesgabriel8917/PythonDataScraping.git) – WebScrapping exemplar público.
 - 📌 [API feita com Java + SpringBoot](https://github.com/jamesgabriel8917/api-springboot.git) – API REST com Spring Boot e boas práticas.
-- 📌 [Site Game Mosquito Killer](https://github.com/jamesgabriel8917/MosquitoKillerGames.git) – Projeto frontend com HTML/CSS/JS.
+
 
 ---
 ## 📊 GitHub Stats
